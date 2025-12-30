@@ -1,2 +1,2 @@
 ## Output Visualization
-![Stock Prediction](output/prediction_plot.png)
+![Stock Prediction](prediction_plot.png)
